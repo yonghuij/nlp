@@ -11,3 +11,4 @@
 
 ## Links
 - [Scientific Summarization Data Sets](https://github.com/Santosh-Gupta/ScientificSummarizationDataSets)
+- [BERT fine-tuning for Tensorflow 2.0 with Keras API](https://medium.com/@brn.pistone/bert-fine-tuning-for-tensorflow-2-0-with-keras-api-9913fc1348f6)
